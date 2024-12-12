@@ -1,0 +1,43 @@
+CREATED_SUCCESSFULLY = "{} created successfully"
+UPDATED_SUCCESSFULLY = "{} updated successfully"
+DELETED_SUCCESSFULLY = "{} deleted successfully"
+RETRIEVED_SUCCESSFULLY = "{} retrieved successfully"
+NOT_FOUND = "{} not found"
+PAGE_NOT_FOUND = "Page Not Found"
+ALREADY_EXISTS = "{module} already exists"
+NOT_VERIFIED_BY_ADMIN = "The approval of your account is pending. Please contact your administrator for further assistance."
+OTP_CODE_SENT = "An OTP code has been sent to your registered phone number."
+EMAIL_MESSAGE = "The delivery agent has now registered. Please log in to the system for approval"
+INVALID_OTP = "Invalid OTP"
+NO_USER = "User not registered"
+INVALID_CREDENTIALS = "Invalid Credentials"
+LOGIN_SUCCESSFULLY = "User logged in successfully"
+INQUIRY_EMAIL_MESSAGE = "A new inquiry has arrived for the '{}' product"
+OTP_CODE_MESSAGE = "{} is the one time password for Amrutam: The A2 Milk Shop."
+SOMETHING_WENT_WRONG = "Something went wrong, please try again"
+NO_PERMISSION = 'You  do not have permission to perform this action.'
+SERVER_ERROR = "Internal Server Error"
+GENERAL_ERROR = 'Error on the path'
+ERROR_400_MESSAGE = 'Bad Request'
+ERROR_401_MESSAGE = 'Unauthorized'
+ERROR_403_MESSAGE = 'Forbidden'
+ERROR_404_MESSAGE = 'API not found'
+ERROR_422_MESSAGE = 'Unprocessable Data'
+ERROR_500_MESSAGE = 'Internal Server Error'
+ERROR_405_MESSAGE = 'Method not allowed'
+SUCCESS = "success"
+ERROR = "error"
+WARNING = "warning"
+INVALID_DATA = "Invalid Data"
+ENTER_VALID_DATA = "Please enter valid {module}"
+CANCELLED_SUCCESSFULLY = "{module} cancelled successfully"
+ORDER_NOT_AVAILABLE = "You haven't placed any orders"
+ORDER_ASSIGN_SUCCESSFULLY = "Orders Assign Successfully"
+ORDER_UPDATE = "Orders Updated Successfully."
+DELIVERY_ORDER = "Successfully get delivery orders."
+DELIVERY_ORDER_UPDATE = "Successfully updated delivery orders."
+
+YEARS = {"Jan":1, "Feb": 2, "March": 3, "Apr": 4, "May": 5, "June": 6,
+         "July": 7, "Aug": 8, "Sept": 9, "Oct": 10, "Nov": 11, "Dec": 12}
+
+DELIVERY_CHARGE = 3
