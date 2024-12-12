@@ -16,7 +16,7 @@ jobs:
     - name: Pull Docker image
       run: docker pull kaushalkhonde2107/github-actions:latest
     - name: Delete Old docker container
-      run: docker rm -f github-actions || true
+      run: docker rm -f kaushal-github-actions || true
     - name: Run Docker Container
       run: docker run -d -p 8099:8080 --name kaushal-github-actions kaushalkhonde2107/github-actions
     
